@@ -2,4 +2,5 @@
 
 The respective proposed feature extraction python code, and different Trojan variance details are available here.
 
-<img width="828" height="258" alt="image" src="https://github.com/user-attachments/assets/9516eae9-6838-4db3-aadb-3678dd6778c1" />
+<img width="1313" height="410" alt="image" src="https://github.com/user-attachments/assets/69683922-0247-40bb-8dee-bd4f329dad84" />
+
